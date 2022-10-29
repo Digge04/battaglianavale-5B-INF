@@ -3,8 +3,8 @@ Progetto scolastico per TIPSI
 
 per configurare l'istanza AWS AMI Linux 2:
 ```
-sudo yum update
-sudo yup install git
+sudo yum update -y
+sudo yup install git -y
 sudo pip3 install flask
 
 git config --global user.name myname
